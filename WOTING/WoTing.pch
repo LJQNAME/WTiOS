@@ -1,0 +1,15 @@
+//
+//  WoTing.pch
+//  WOTING
+//
+//  Created by jq on 2016/11/21.
+//  Copyright © 2016年 jq. All rights reserved.
+//
+
+#ifndef WoTing_pch
+#define WoTing_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* WoTing_pch */
